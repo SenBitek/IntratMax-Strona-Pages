@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://intrat-max.pl/</loc>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://intrat-max.pl/o-nas</loc>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://intrat-max.pl/informacje-prawne</loc>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://intrat-max.pl/polityka-prywatnosci</loc>
+<changefreq>yearly</changefreq>
+<priority>0.3</priority>
+</url>
+</urlset>
