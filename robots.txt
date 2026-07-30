@@ -1,4 +1,4 @@
 User-Agent: *
-Allow: /
+Disallow: /
 
-Sitemap: https://intrat-max.pl/sitemap.xml
+Sitemap: http://localhost:3000/sitemap.xml
